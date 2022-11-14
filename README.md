@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ssmith34
+- 👋 Hi, I’m @Shane Smith
 - 👀 I’m interested in learning to become a skilled software engineer
 - 🌱 I’m currently learning java with Tech Elevator through their bootcamp
 - 💞️ I’m looking to collaborate on my side scroller game or any application!
