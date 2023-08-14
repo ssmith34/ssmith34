@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shane Smith
 - 👀 I’m interested in learning to become a skilled software engineer
-- 🌱 I’m currently learning Java with Tech Elevator through their bootcamp
-- 💞️ I’m looking to collaborate on my side scroller game or any application!
+- 🌱 I’m currently learning React through Udemy to build a new app!
+- 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me slsmith0906@gmail.com
 
 <!---
